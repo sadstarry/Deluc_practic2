@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deluc_practic2", "Deluc_practic2\Deluc_practic2.csproj", "{3D8BF990-84F8-409F-9E93-0153ED9A663E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D8BF990-84F8-409F-9E93-0153ED9A663E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8BF990-84F8-409F-9E93-0153ED9A663E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8BF990-84F8-409F-9E93-0153ED9A663E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8BF990-84F8-409F-9E93-0153ED9A663E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5023A1A6-B547-4E44-8945-0956E70550AB}
+	EndGlobalSection
+EndGlobal
